@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 wyattholland  staff   0 Mar 31 12:31 lab-01-folders.txt
+drwxr-xr-x  3 wyattholland  staff  96 Mar 31 12:28 p1
+drwxr-xr-x  2 wyattholland  staff  64 Mar 31 11:43 p2
+drwxr-xr-x  2 wyattholland  staff  64 Mar 31 11:43 p3
+drwxr-xr-x  2 wyattholland  staff  64 Mar 31 11:43 p4
+drwxr-xr-x  2 wyattholland  staff  64 Mar 31 11:44 p5
+drwxr-xr-x  2 wyattholland  staff  64 Mar 31 11:44 p6
+drwxr-xr-x  2 wyattholland  staff  64 Mar 31 11:44 p7
+drwxr-xr-x  2 wyattholland  staff  64 Mar 31 11:44 p8
